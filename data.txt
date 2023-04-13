@@ -1,0 +1,6 @@
+1,Ha,HaNoi,09/12/90
+2,An,NamDinh,26/06/95
+3,Binh,ThanhHoa,01/05/92
+4,Lan,HaTinh,04/04/87
+5,Tuan,ThaiBinh,02/02/89
+6,Anh,QuangNgai,15/08/95
